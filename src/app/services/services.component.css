@@ -1,0 +1,12 @@
+.sm{
+    background-image: url('https://www.netpremacy.com/wp-content/uploads/2018/09/Background-website-01.jpg');
+    background-size: cover;
+}
+h2{
+    font-size: 32px;
+    justify-content: center;
+}
+p{
+    font-size: 24px;
+    color: rgb(0, 0, 0);
+}

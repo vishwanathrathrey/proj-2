@@ -1,0 +1,38 @@
+.i1{
+    background-image: url("../../assets/health.jpg");
+    height: 400px;
+    width: 33%;
+    background-size: cover;
+}
+.i2{
+    background-image: url("../../assets/iot.jfif");
+    height: 400px;
+    width: 33%;
+    background-size: cover;
+}
+.i3{
+    background-image: url("../../assets/lifestyle.jpg");
+    height: 400px;
+    width: 33%;
+    background-size: cover;
+}
+.hm{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.aa{
+    height: 100vh;
+    width: 100%;
+    background-image: url("https://www.netpremacy.com/wp-content/uploads/2018/09/Background-website-01.jpg");
+    background-size: cover;
+}
+.info {
+    margin-top: 10px;
+    height: 250px;
+}
+
+h2{
+    padding-top: 70px;
+    margin-left: 40px;
+}
